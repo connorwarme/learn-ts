@@ -1,8 +1,9 @@
 import { Container } from "react-bootstrap"
+import { Outlet } from "react-router-dom"
 function App() {
   return (
     <Container>
-      <h1>Hello, world!</h1>
+      <Outlet />
     </Container>
   )
 }
