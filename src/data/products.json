@@ -3,48 +3,56 @@
     "id": 0,
     "model": "Instinct VSR",
     "brand": "Scarpa",
+    "url": "/imgs/instinctVsr.jpg",
     "price": 199.95
   },
   {
     "id": 1,
     "model": "Instinct Lace",
     "brand": "Scarpa",
+    "url": "/imgs/instinctLace.jpg",
     "price": 209.95
   },
   {
     "id": 2,
     "model": "OG Boostic",
     "brand": "Scarpa",
+    "url": "/imgs/ogBoostic.jpg",
     "price": 229.95
   },
   {
     "id": 3,
     "model": "Generator",
     "brand": "Scarpa",
+    "url": "/imgs/generator.jpg",
     "price": 199.95
   },
   {
     "id": 4,
     "model": "Katana",
     "brand": "La Sportiva",
+    "url": "/imgs/katana.jpg",
     "price": 229.95
   },
   {
     "id": 5,
     "model": "Otaki",
     "brand": "La Sportiva",
+    "url": "/imgs/otaki.jpg",
     "price": 199.95
   },
   {
     "id": 6,
     "model": "Solution",
     "brand": "La Sportiva",
+    "url": "/imgs/solution.jpg",
     "price": 209.95
   },
   {
     "id": 7,
-    "model": "Muira VS",
+    "model": "Miura VS",
     "brand": "La Sportiva",
+    "url": "/imgs/miura.jpg",
     "price": 219.95
   }
 ]
