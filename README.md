@@ -2,6 +2,7 @@
 - build simple ecommerce site
 - learn bootstrap
 - in development
+- followed tutorial first time, goal is recreate it without the step by step guide
 
 
 
