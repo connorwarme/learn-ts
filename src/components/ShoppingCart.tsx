@@ -3,8 +3,9 @@ type ShoppingCartProps = {
 }
 
 const ShoppingCart = ({ display }: ShoppingCartProps) => {
+  const style = { display: display ? 'block' : 'none' }
   return ( 
-    <div>
+    <div style={style}>
       <h1>Shopping Cart</h1>
     </div>
    );

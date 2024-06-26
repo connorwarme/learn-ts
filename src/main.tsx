@@ -2,10 +2,11 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css"
+import Home from './pages/Home.tsx'
 import About from './pages/About.tsx'
 import Store from './pages/Store.tsx'
 import App from './App.tsx'
-import Home from './pages/Home.tsx'
+
 
 const router = createBrowserRouter([
   {
