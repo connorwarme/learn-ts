@@ -5,7 +5,7 @@ import { useSCContext } from "../context/ShoppingCartContext";
 const Navbar = () => {
   const { cartQuantity, showCart } = useSCContext()
   return ( 
-    <NavbarBS className="bg-white shadow-sm mb-3">
+    <NavbarBS sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
         <Nav>
           <Nav.Link as={NavLink} to="/">Home</Nav.Link>

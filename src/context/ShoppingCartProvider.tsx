@@ -22,7 +22,7 @@ const ShoppingCartProvider = ({ children }: ShoppingCartProviderProps) => {
   }
   const increaseQuantity = (id: number) => {
     setCart((currentCart) => {
-      if (currentCart.find((item) => item.id === id) === null) {
+      if (currentCart.find((item) => item.id === id) == null) {
         return [...currentCart, {id, quantity: 1}]
       } else {
         return currentCart.map((item) => {
